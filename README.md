@@ -1,21 +1,26 @@
 # UniOulu Creative Design course deliverables 
 
-### Table of contents:
+## Table of contents:
 1. Weekly exercise reports
 2. Invidual project
 
 
 ## Weekly exercises  
-## Excercise 1
+### Excercise 1
 
-## Excercise 2
+### Excercise 2
 
-## Excercise 3
+### Excercise 3
 
-## Excercise 4
+### Excercise 4
 
-## Excercise 5
+### Excercise 5
 
-## Excercise 6
+### Excercise 6
 
-## Excercise 7
+### Excercise 7
+
+
+## Individual project  
+### Deadline 1
+### Deadline 2
