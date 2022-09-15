@@ -36,9 +36,37 @@ My creation is called "The cheap tower" as it is built only of seven strands of 
 ![Image 2](ex1/implementation.jpg)
 *Finished tower*
 
---------------------------
+---
 
 ### Excercise 2
+### Concept generation: Latent functions method 
+This week the first task was to *1. Make a list of new uses of clothes pegs*:
+My list is shown in Image 3:
+
+![Image 3](ex2/conception.jpg)
+
+In retrospective, my list was quite focused on the functional side of things and repurposing the functionality of the product.
+I did not focus on repurposing the materials nor on the aesthetic or artistic purposes. 
+
+Also in the image are the results of the second task: *2. Focusing on those uses, think of a new concept of a product
+(sketch & annotate)*.
+I focused on the cable management solution. I sketched the basic idea and a redesigned a "cable peg" which has flatter inner sides and a nail to attach it more securely to the table.
+
+The second part of the exercise was *II. Mindmapping method Create a mind map of the topic: Mosquitos*.
+My mindmap is shown in image 4.
+
+![Image 3](ex2/mindmap.jpg)
+*Mindmap of mosquitoes*
+
+I am happy how the mindmap turned out.
+As can be observed, I tried to sketch the mindmap in the shape of a mosquito with different body parts representing different subtopics.
+The exercise had no strict rules on which things on mosquitoes to focus on, so I focused mainly on body parts and their functions. I tried to be not too serious about it.
+
+The final part was to create a compound map of the same topic -- I could not figure out what a compound map is and that is why I skipped this task.
+
+See you next week!
+
+---
 
 ### Excercise 3
 
