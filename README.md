@@ -55,7 +55,7 @@ I focused on the cable management solution. I sketched the basic idea and a rede
 The second part of the exercise was *II. Mindmapping method Create a mind map of the topic: Mosquitos*.
 My mindmap is shown in image 4.
 
-![Image 3](ex2/mindmap.jpg)
+![Image 4](ex2/mindmap.jpg)
 *Mindmap of mosquitoes*
 
 I am happy how the mindmap turned out.
@@ -69,6 +69,37 @@ See you next week!
 ---
 
 ### Excercise 3
+
+The plan of the exercise was to sketch and design iteratively. Furthermore, human oriented design was also the topic.
+
+ The exercise was quite long and repetitive, and did not make sense in some parts.
+Concentrating on the wallet topic was quite restrictive.
+Or I am just too simple to understand its goals.
+
+The results, analysis and reflection of the exercise are shown below:
+
+#### Tasks 1 & 2: *Design something useful and meaningful for your teammate. Start by gaining empathy.*
+
+![Image 5](ex3/part1.jpg)
+*Tasks 1 and 2*
+
+It came apparent quite quickly that the partner alreay pretty much had their ideal wallet.
+Only thing missing was durability, which is hard in prototyping -- it would have to be imagined.
+
+#### Tasks 3-6: *Reframe the problem, Ideate: generate alternatives to test.
+Sketch at least 5 radical ways to meet your user's needs.*
+
+![Image 6](ex3/part2.jpg)
+*Tasks from 3 to 6 *
+
+The feedback for the five radical solutions is written beside the ideas with a thicker pen.
+
+#### Tasks 7-9: *Iterate based on feedback, sketch, build and test, share and get feedback.*
+
+![Image 7](ex3/part3.jpg)
+*Tasks from 7 to 9*
+
+---
 
 ### Excercise 4
 
