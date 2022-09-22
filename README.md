@@ -86,11 +86,10 @@ The results, analysis and reflection of the exercise are shown below:
 It came apparent quite quickly that the partner alreay pretty much had their ideal wallet.
 Only thing missing was durability, which is hard in prototyping -- it would have to be imagined.
 
-#### Tasks 3-6: *Reframe the problem, Ideate: generate alternatives to test.
-Sketch at least 5 radical ways to meet your user's needs.*
+#### Tasks 3-6: *Reframe the problem, Ideate: generate alternatives to test. Sketch at least 5 radical ways to meet your user's needs.*
 
 ![Image 6](ex3/part2.jpg)
-*Tasks from 3 to 6 *
+*Tasks from 3 to 6*
 
 The feedback for the five radical solutions is written beside the ideas with a thicker pen.
 
