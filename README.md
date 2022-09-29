@@ -102,6 +102,42 @@ The feedback for the five radical solutions is written beside the ideas with a t
 
 ### Excercise 4
 
+The individual exercise this week focused on two design methods: SCAMPER and morphological analysis:
+
+#### SCAMPER
+The task: *Applying the corresponding methodology, develop as many ideas as possible regarding novel creative concepts for a SMALL RECYCLING STATION*
+
+I though the recycling station concept was quite broad. What even is a *small* recycling station? And what is a *recycling station*? First thing to pop into mind is the basic sorting bins found in kitchen cabinets. But I expanded the idea and designed it completely from scratch seven times. It was quite fun actually and I believe I was being quite quirky and creative. Some ideas are crazy, cartoonish and not feasible at all.
+See my results from the images below:
+
+![Image 8](ex4/s1.jpg)
+
+![Image 9](ex4/s2.jpg)
+
+![Image 10](ex4/s3.jpg)
+
+![Image 11](ex4/s4.jpg)
+
+![Image 12](ex4/s5.jpg)
+
+![Image 13](ex4/s6.jpg)
+
+![Image 14](ex4/s7.jpg)
+
+
+#### Morphological analysis
+
+Getting the hang of this method took a while. After that, I liked more than the SCAMPER method -- it is faster and more visualizing. And matrices are effective.
+See results below:
+
+![Image 15](ex4/m.jpg)
+
+#### Group exercise
+
+The exercise 4 included a group session to design the same things with the same methods as individually. We did it in groups of three. I think I got more creative results when doing the exercise on my own, but the group brought some new ideas as well. We had most of the issues when selecting items from the morphological analysis chart. We could not decide on which items to choose.
+
+---
+
 ### Excercise 5
 
 ### Excercise 6
