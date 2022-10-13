@@ -140,7 +140,74 @@ The exercise 4 included a group session to design the same things with the same 
 
 ### Excercise 5
 
+#### Fishbone diagram method
+The task was to design a device for improving mobility of low-income persons. The method was the fishbone diagram method.
+In my opinion, the method is quite similar to mindmapping, but makes the idea somehow more vague while still increasing complexity.
+Not to my liking then.
+However, see my fishbone diagram here:
+![Image 16](ex5/5a1.jpg)
+
+Using the diagram, I conceived a device shown in the following image:
+
+![Image 17](ex5/5a2.jpg)
+
+#### Thematic relations method
+
+Thematic relations is a method where relations between words are (unnaturally) invented.
+The given words were *car*, *umbrella* and *spring*.
+The forced nature of the method made me invent this crazy product shown in the next image:
+![Image 18](ex5/5b1.jpg)
+
+The rest of the tasks and solutions here:
+![Image 19](ex5/5b2.jpg)
+
+![Image 20](ex5/5b3.jpg)
+
+![Image 21](ex5/5b4.jpg)
+
+Maybe if a problem was given and the keywords would be related to it, the method would produce more sensible results.
+Now creating products just based on keywords makes little sense. 
+
+---
+
 ### Excercise 6
+
+#### Collaborative sketching
+The sixth exercise focused on the collaborative sketching method.
+In teams of three, each team member was given the same problem to work on and a sketch paper of their own.
+Initially, each member innovate and sketch their thoughts on the problem and then the sketches are circulated in the team.
+Each member then adds their own ideas to the sketches of other members.
+No communication is allowed during the process.
+
+My ideas of transportation methods on a snowy moutain:
+
+![Image 22](ex6/6a1.jpg)
+
+I found this method to be quite effective, so here are the benefits:
+- people are not affected by other's ideas
+- flaws or inadequacies in other's ideas can be seen immediately
+
+disadvantages of method:
+- produces some overlapping or similar ideas --> people work on the same thing without knowing
+
+After each sketch had been reviewed and augmented by others, each team member then sketched a favourite one among the creations.
+Here's my refinement of ideas:
+
+![Image 23](ex6/6a2.jpg)
+
+#### Pick a mood 
+
+After the ideas were refined and sketched, all the people in the exercise group reviewed other's creations and rated them.
+The rating concerned novelty and usefulness and was done using a mood chart. I'd prefer adding numerical values to each emotion for easier quantification.
+
+My moods in the images below:
+![Image 24](ex6/6b1.jpg)
+
+![Image 25](ex6/6b2.jpg)
+
+![Image 26](ex6/6b3.jpg)
+
+---
 
 ### Excercise 7
 
