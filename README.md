@@ -211,7 +211,60 @@ My moods in the images below:
 
 ### Excercise 7
 
+---
 
-## Individual project  
-### Deadline 1
-### Deadline 2
+
+## Individual project
+
+The idea for the project originated from a real problem I wanted to solve. I have a headlamp that I wanted to wear while mountain biking.
+However, the lamp could not be attached to the helmet without using hacks such as tape or zip ties that could damage the helmet.
+
+The solution was to design a product/adapter for these to marry these two items shown in the following images:
+
+![Image 27](project/helmet.jpg)
+*Lazer Impala helmet*
+
+![Image 27](project/headlamp.jpg)
+*Nitecore HC60 headlamp*
+
+Luckily the helmet came with an action camera mount adapter (shown in the image of the helmet), which would act as an interface for the product to be designed.
+
+I made a list of the product requirements:
+- Sturdy enough to withstand the stresses of mountain biking
+- Subtle to not look like a hack
+- Adjustable light beam angle
+- Easy to remove the headlight when it's not needed there anymore (in the spring).
+
+I have previous experience of 3D modeling and 3D printing, so I decided to implement the product using those skills.
+
+First I disassembled the headlight to see which parts I need and what I don't.
+The lamp has a structure of a pipe with two threaded end caps. This feature could be utilized in the mounting of light to the product.
+See the following image for the disassembled lamp.
+
+![Image 27](project/disassembled.jpg)
+
+After listing the components and requirement, I had the framework of the problem. Based on that, I made a sketch of the product:
+
+![Image 27](project/sketch.jpg)
+
+Based on the sketch, I started to design the part in FreeCAD, which I am familiar with.
+
+Since the helmet provided a mounting interface, for a camera, creating a matching lamp bracket was as easy as measuring the parts with a caliper.
+Creating a sturdy platform for the light was more tricky -- I decided to simplify the design by removing the other upper bracket from the sketch.
+The lamp would slide through the bracket with the end cap unscrewed. The cap would then be screwed back on.
+On the other end, I created a slot for a zip tie to hold the light better in place.
+
+The design process was quite straightforward and interesting, since the product has an actual real life use case.
+Furthermore, the design process clarified the actual steps of designing a product like this.
+These methods apply to abstract products such as software as well.
+
+Here's a screenshot of the 3D model:
+
+![Image 27](project/3dmodel.png)
+
+A simple M5 screw is used to attach the product to the helmet.
+
+The next step was to bring the creation to life by printing it. **TODO**.
+
+Finally, the finished product was attached to the lamp and the helmet. **TODO**
+
