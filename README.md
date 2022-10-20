@@ -231,7 +231,6 @@ Video of the drop test: ![Video 1](ex7/drop_test.mp4)
 
 ---
 
-
 ## Individual project
 
 The idea for the project originated from a real problem I wanted to solve. I have a headlamp that I wanted to wear while mountain biking.
@@ -239,10 +238,10 @@ However, the lamp could not be attached to the helmet without using hacks such a
 
 The solution was to design a product/adapter for these to marry these two items shown in the following images:
 
-![Image 27](project/helmet.jpg)
+![Image 29](project/helmet.jpg)
 *Lazer Impala helmet*
 
-![Image 28](project/headlamp.jpg)
+![Image 30](project/headlamp.jpg)
 *Nitecore HC60 headlamp*
 
 Luckily the helmet came with an action camera mount adapter (shown in the image of the helmet), which would act as an interface for the product to be designed.
@@ -259,11 +258,11 @@ First I disassembled the headlight to see which parts I need and what I don't.
 The lamp has a structure of a pipe with two threaded end caps. This feature could be utilized in the mounting of light to the product.
 See the following image for the disassembled lamp.
 
-![Image 29](project/disassembled.jpg)
+![Image 31](project/disassembled.jpg)
 
 After listing the components and requirement, I had the framework of the problem. Based on that, I made a sketch of the product:
 
-![Image 30](project/sketch.jpg)
+![Image 32](project/sketch.jpg)
 
 Based on the sketch, I started to design the part in FreeCAD, which I am familiar with.
 
@@ -278,7 +277,7 @@ These methods apply to abstract products such as software as well.
 
 Here's a screenshot of the 3D model:
 
-![Image 31](project/3dmodel.png)
+![Image 33](project/3dmodel.png)
 
 A simple M5 screw is used to attach the product to the helmet.
 
@@ -287,7 +286,7 @@ I used a fused deposition modeling (FDM) printer with PLA plastic as the materia
 
 Finally, the finished product was attached to the lamp and the helmet.
 
-![Image 32](project/finished.jpg)
+![Image 34](project/finished.jpg)
 *Finished product.*
 
 Turns out the fit is so exact that the lamp is held sturdily in place even without the zip tie. The beam height adjustment works.
