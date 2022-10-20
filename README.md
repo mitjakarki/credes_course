@@ -217,7 +217,7 @@ Construction materials to be used were only simple household items.
 
 See our morphological analysis in the following image:
 
-![Image 27](ex7/morphological analysis.png)
+![Image 27](ex7/morphological_analysis.png)
 
 The design method was a good fit for the task of constrained design.
 Probably also because the method was already familiar.
