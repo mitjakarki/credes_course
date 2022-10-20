@@ -211,6 +211,24 @@ My moods in the images below:
 
 ### Excercise 7
 
+This week's task was to use morphological analysis in groups of 2-3.
+The design task was to create a vessel for an egg that's dropped onto floor and prevent the breakage of the egg.
+Construction materials to be used were only simple household items.
+
+See our morphological analysis in the following image:
+
+![Image 27](ex7/morphological analysis.png)
+
+The design method was a good fit for the task of constrained design.
+Probably also because the method was already familiar.
+
+I chose to implement the simplest solution by wrapping the egg loose into plastic wrap.
+The plastic wrap ball was then inserted on top of an empty milk carton. See the next image.
+
+![Image 28](ex7/egg_craft.png)
+
+Video of the drop test: ![Video 1](ex7/drop_test.mp4)
+
 ---
 
 
