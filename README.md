@@ -225,9 +225,11 @@ Probably also because the method was already familiar.
 I chose to implement the simplest solution by wrapping the egg loose into plastic wrap.
 The plastic wrap ball was then inserted on top of an empty milk carton. See the next image.
 
-![Image 28](ex7/egg_craft.png)
+![Image 28](ex7/egg_craft.jpg)
 
 Video of the drop test: ![Video 1](ex7/drop_test.mp4)
+
+The egg survived the drop, which I'm impressed of. I prefer simple solutions and this one luckily worked.
 
 ---
 
